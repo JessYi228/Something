@@ -1,0 +1,4 @@
+# > Bilibili
+host-suffix, bilibili.com, Global
+host-suffix, bilibili.tv, Global
+host-keyword, bilibili, Global
