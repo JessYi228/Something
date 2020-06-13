@@ -38,4 +38,22 @@ DOMAIN,api.viu.now.com,Hong Kong
 DOMAIN,d1k2us671qcoau.cloudfront.net,Hong Kong
 DOMAIN,d2anahhhmp1ffz.cloudfront.net,Hong Kong
 DOMAIN,dfp6rglgjqszk.cloudfront.net,Hong Kong
-
+# > Hulu(フールー)
+host-suffix, happyon.jp, Japan
+host-suffix, hulu.jp, Japan
+# > AbemaTV
+user-agent, AbemaTV*, Japan
+host-suffix, abema.io, Japan
+host-suffix, ameba.jp, Japan
+host-suffix, abema.tv, Japan
+host-suffix, hayabusa.io, Japan
+host, abematv.akamaized.net, Japan
+host, ds-linear-abematv.akamaized.net, Japan
+host, ds-vod-abematv.akamaized.net, Japan
+host, linear-abematv.akamaized.net, Japan
+# > BBC iPlayer
+user-agent, BBCiPlayer*, United Kingdom
+host-suffix, bbc.co.uk, United Kingdom
+host-suffix, bbci.co.uk, United Kingdom
+host-keyword, bbcfmt, United Kingdom
+host-keyword, uk-live, United Kingdom
