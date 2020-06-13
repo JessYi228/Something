@@ -1,0 +1,6 @@
+# > BBC iPlayer
+user-agent, BBCiPlayer*, GlobalMedia
+host-suffix, bbc.co.uk, GlobalMedia
+host-suffix, bbci.co.uk, GlobalMedia
+host-keyword, bbcfmt, GlobalMedia
+host-keyword, uk-live, GlobalMedia
