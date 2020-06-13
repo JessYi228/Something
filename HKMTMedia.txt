@@ -6,8 +6,8 @@ host-keyword, bilibili, Taiwan
 user-agent, Anime*, Taiwan
 host-suffix, bahamut.com.tw, Taiwan
 host-suffix, gamer.com.tw, Taiwan
-host, gamer-cds.cdn.hint.net, Taiwan
-host, gamer2-cds.cdn.hint.net, Taiwan
+host, gamer-cds.cdn.hinet.net, Taiwan
+host, gamer2-cds.cdn.hinet.net, Taiwan
 # > KKTV
 user-agent, KKTV*, Taiwan
 user-agent, com.kktv.ios.kktv*, Taiwan
