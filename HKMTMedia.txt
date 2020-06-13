@@ -1,0 +1,41 @@
+# > Bilibili
+host-suffix, bilibili.com, Taiwan
+host-suffix, bilibili.tv, Taiwan
+host-keyword, bilibili, Taiwan
+# > Bahamut
+user-agent, Anime*, Taiwan
+host-suffix, bahamut.com.tw, Taiwan
+host-suffix, gamer.com.tw, Taiwan
+host, gamer-cds.cdn.hint.net, Taiwan
+host, gamer2-cds.cdn.hint.net, Taiwan
+# > KKTV
+user-agent, KKTV*, Taiwan
+user-agent, com.kktv.ios.kktv*, Taiwan
+host-suffix, kktv.com.tw, Taiwan
+host-suffix, kktv.me, Taiwan
+host, kktv-theater.kk.stream, Taiwan
+# > Line TV
+user-agent, LINE%20TV*, Taiwan
+host-suffix, linetv.tw, Taiwan
+host, d3c7rimkq79yfu.cloudfront.net, Taiwan
+# > 台湾好
+user-agent, TaiwanGood*, Taiwan
+host-suffix, skyking.com.tw, Taiwan
+host, hamifans.emome.net, Taiwan
+# > 愛奇藝台灣站
+DOMAIN,cache.video.iqiyi.com, Taiwan
+# > encoreTVB
+USER-AGENT,encoreTVB*, Hong Kong
+DOMAIN-SUFFIX,encoretvb.com, Hong Kong
+DOMAIN,edge.api.brightcove.com, Hong KOng
+DOMAIN,bcbolt446c5271-a.akamaihd.net, Hong Kong
+# > ViuTV
+USER-AGENT,Viu*, Hong Kong
+USER-AGENT,ViuTV*,Hong Kong
+DOMAIN-SUFFIX,viu.com,Hong Kong
+DOMAIN-SUFFIX,viu.tv,Hong Kong
+DOMAIN,api.viu.now.com,Hong Kong
+DOMAIN,d1k2us671qcoau.cloudfront.net,Hong Kong
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,Hong Kong
+DOMAIN,dfp6rglgjqszk.cloudfront.net,Hong Kong
+
