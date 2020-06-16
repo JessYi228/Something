@@ -1,2 +1,2 @@
-#Pictures
-  自用图标
+#Pictures  
+自用图标
