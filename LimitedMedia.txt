@@ -2,6 +2,7 @@
 host-suffix, bilibili.com, Taiwan
 host-suffix, bilibili.tv, Taiwan
 host-keyword, bilibili, Taiwan
+user-agent, *bili*, Taiwan
 # > Bahamut
 user-agent, Anime*, Taiwan
 host-suffix, bahamut.com.tw, Taiwan
