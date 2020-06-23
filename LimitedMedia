@@ -61,3 +61,20 @@ host-suffix, bbc.co.uk, United Kingdom
 host-suffix, bbci.co.uk, United Kingdom
 host-keyword, bbcfmt, United Kingdom
 host-keyword, uk-live, United Kingdom
+# Hulu
+DOMAIN-SUFFIX,hulu.com, United States
+DOMAIN-SUFFIX,huluim.com, United States
+DOMAIN-SUFFIX,hulustream.com, United States
+# DisneyPlus
+USER-AGENT,Disney*, United States
+USER-AGENT,Disney+*, United States
+DOMAIN,cdn.cdn.unid.go.com, United States
+DOMAIN,cdn.registerdisney.go.com, United States
+DOMAIN-SUFFIX,bamgrid.com, United States
+DOMAIN-SUFFIX,braze.com, United States
+DOMAIN-SUFFIX,conviva.com, United States
+DOMAIN-SUFFIX,disney-plus.net, United States
+DOMAIN-SUFFIX,disney.demdex.net, United States
+DOMAIN-SUFFIX,disneyplus.com, United States
+DOMAIN-SUFFIX,dssott.com, United States
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com, United States
