@@ -12,8 +12,8 @@ surge_ruleset=Final,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=PROXY`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]Others`[]DIRECT`[]USA`[]United Kingdom
-custom_proxy_group=Netflix`select`[]Singapore`[]Hong Kong`[]Taiwan`[]Japan`[]USA`[]United Kingdom`[]Others
+custom_proxy_group=PROXY`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]Others`[]DIRECT
+custom_proxy_group=Netflix`select`[]Singapore`[]Hong Kong
 custom_proxy_group=Hong Kong`select`(港|HK|HONG|Hong|HGC)
 custom_proxy_group=Taiwan`select`(台|新北|彰化|TW|Tai)
 custom_proxy_group=Singapore`select`(新|狮城|SG|Singa)
