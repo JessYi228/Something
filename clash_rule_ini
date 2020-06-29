@@ -1,0 +1,24 @@
+;设置公用标志位
+clash_rule_base=https://raw.githubusercontent.com/Thor-jelly/MyClashRule/master/common_pc_flag.yml
+;设置规则标志位
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
+surge_ruleset=NETFLIX,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Netflix.list
+surge_ruleset=USA,https://raw.githubusercontent.com/JessYi228/Something/master/USLimited
+surge_ruleset=Japan,https://raw.githubusercontent.com/JessYi228/Something/master/JPLimited
+surge_ruleset=Taiwan,https://raw.githubusercontent.com/JessYi228/Something/master/TaiwanLimited
+surge_ruleset=United Kingdom,https://raw.githubusercontent.com/JessYi228/Something/master/UKLimited
+surge_ruleset=Hong Kong,https://raw.githubusercontent.com/JessYi228/Something/master/HKLimited
+surge_ruleset=Final,[]FINAL
+;设置规则标志位
+
+;设置分组标志位
+custom_proxy_group=PROXY`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]Others`[]DIRECT
+custom_proxy_group=NETFLIX`select`[]Singapore`[]Hong Kong`[]Taiwan`[]Japan`[]USA`[]United Kingdom`[]Others
+custom_proxy_group=Hong Kong`select`(港|HK|HONG|Hong|HGC)
+custom_proxy_group=Taiwan`select`(台|新北|彰化|TW|Tai)
+custom_proxy_group=Singapore`select`(新|狮城|SG|Singa)
+custom_proxy_group=Japan`select`(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Jap)
+custom_proxy_group=USA`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US)
+custom_proxy_group=Others`select`GCX`^((?!新|Jap|Tai|Singa|狮城|SG|港|HK|HONG|Hong|HGC|台|新北|彰化|TW|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US).)*$
+custom_proxy_group=Final`select`[]PROXY`[]DIRECT
+;设置分组标志位
