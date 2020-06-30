@@ -14,7 +14,7 @@ BBC, BBCiPlayer
 ### US  
 Hulu, Disney+, FoxNow, FoxPlus  
 ### clash_rule_ini  
-自定义的clash配置，分组  
+根据[Thor-jelly](https://github.com/Thor-jelly/MyClashRule)改编自定义的clash配置，分组，谢谢这位大哥      
 不仅有Geoip CN,还加上了ChinaIP，所以直连规则非常多，5880条，电脑性能不好的话慎入  
 没有emoji(迫真没有感情的分流机器)  
 流媒体分流配合上面的地区规则内置进对应地区的策略组里，只有奈飞单独分流，且为了配合车主的要求，只加上了HK和SG  
