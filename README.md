@@ -12,5 +12,7 @@ Bilibili, Bahamut, KKTV, LineTV, ~~台湾好（虽然不看，也不知道这是
 ### UK  
 BBC, BBCiPlayer  
 ### US  
-Hulu, Disney+, FoxNow, FoxPlus
+Hulu, Disney+, FoxNow, FoxPlus  
+### clash_rule_ini  
+自定义的clash配置，分组，没有emoji(迫真没有感情的分流机器)
 
