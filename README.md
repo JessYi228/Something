@@ -13,6 +13,8 @@ Bilibili, Bahamut, KKTV, LineTV, ~~台湾好（虽然不看，也不知道这是
 BBC, BBCiPlayer  
 ### US  
 Hulu, Disney+, FoxNow, FoxPlus  
+### Limited Media  
+用于圈×，根据自己的分组名内置的规则
 ### clash_rule_ini  
 根据[Thor-jelly](https://github.com/Thor-jelly/MyClashRule)改编自定义的clash配置，分组，谢谢这位大哥      
 不仅有Geoip CN,还加上了ChinaIP，所以直连规则非常多，5880条，电脑性能不好的话慎入  
