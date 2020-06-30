@@ -10,6 +10,7 @@ surge_ruleset=Taiwan,https://raw.githubusercontent.com/JessYi228/Something/maste
 surge_ruleset=United Kingdom,https://raw.githubusercontent.com/JessYi228/Something/master/UKLimited
 surge_ruleset=Hong Kong,https://raw.githubusercontent.com/JessYi228/Something/master/HKLimited
 surge_ruleset=Final,[]FINAL
+surge_ruleset=LessAD,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ;设置规则标志位
 
 ;设置分组标志位
@@ -23,4 +24,5 @@ custom_proxy_group=USA`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费�
 custom_proxy_group=United Kingdom`select`(英国|United Kingdom|UK)
 custom_proxy_group=Others`select`GCX`^((?!新|Jap|Tai|Singa|狮城|SG|港|HK|HONG|Hong|HGC|台|新北|彰化|TW|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|英国|United Kingdom|UK).)*$
 custom_proxy_group=Final`select`[]PROXY`[]DIRECT
+custom_proxy_group=LessAD`select`[]REJECT
 ;设置分组标志位
