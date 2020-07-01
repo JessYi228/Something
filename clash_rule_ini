@@ -10,6 +10,7 @@ surge_ruleset=Taiwan,https://raw.githubusercontent.com/JessYi228/Something/maste
 surge_ruleset=United Kingdom,https://raw.githubusercontent.com/JessYi228/Something/master/UKLimited
 surge_ruleset=Hong Kong,https://raw.githubusercontent.com/JessYi228/Something/master/HKLimited
 surge_ruleset=LessAD,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+surge_ruleset=LessAD,https://raw.githubusercontent.com/JessYi228/Something/master/Hijacking
 surge_ruleset=Final,[]FINAL
 
 ;设置规则标志位
