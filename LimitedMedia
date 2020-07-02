@@ -42,6 +42,21 @@ DOMAIN,api.viu.now.com,Hong Kong
 DOMAIN,d1k2us671qcoau.cloudfront.net,Hong Kong
 DOMAIN,d2anahhhmp1ffz.cloudfront.net,Hong Kong
 DOMAIN,dfp6rglgjqszk.cloudfront.net,Hong Kong
+# > HBO GO HKG
+USER-AGENT,HBO%20GO%20PROD%20HKG*,Hong Kong
+DOMAIN-SUFFIX,hbogoasia.com,Hong Kong
+DOMAIN-SUFFIX,hbogoasia.hk,Hong Kong
+DOMAIN,bcbolthboa-a.akamaihd.net,Hong Kong
+DOMAIN,players.brightcove.net,Hong Kong
+DOMAIN,s3-ap-southeast-1.amazonaws.com,Hong Kong
+DOMAIN,dai3fd1oh325y.cloudfront.net,Hong Kong
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Hong Kong
+DOMAIN,hboasia1-i.akamaihd.net,Hong Kong
+DOMAIN,hboasia2-i.akamaihd.net,Hong Kong
+DOMAIN,hboasia3-i.akamaihd.net,Hong Kong
+DOMAIN,hboasia4-i.akamaihd.net,Hong Kong
+DOMAIN,hboasia5-i.akamaihd.net,Hong Kong
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,Hong Kong
 # > Hulu(フールー)
 host-suffix, happyon.jp, Japan
 host-suffix, hulu.jp, Japan
@@ -78,3 +93,10 @@ DOMAIN-SUFFIX,disney.demdex.net, United States
 DOMAIN-SUFFIX,disneyplus.com, United States
 DOMAIN-SUFFIX,dssott.com, United States
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com, United States
+# > HBO NOW & Max
+USER-AGENT,HBO%20NOW*,United States
+DOMAIN-SUFFIX,hbo.com,United States
+DOMAIN-SUFFIX,hbogo.com,United States
+DOMAIN-SUFFIX,hbonow.com,United States
+USER-AGENT,HBOMAX*,United States
+DOMAIN-SUFFIX,hbomax.com,United States
