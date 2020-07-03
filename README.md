@@ -12,7 +12,7 @@ Bilibili, Bahamut, KKTV, LineTV, ~~台湾好（虽然不看，也不知道这是
 ### UK  
 BBC, BBCiPlayer  
 ### US  
-Hulu, Disney+, FoxNow, FoxPlus  
+Hulu, Disney+, FoxNow, FoxPlus, HBO    
 ### Limited Media  
 用于圈×，根据自己的分组名内置的规则
 ### clash_rule_ini  
