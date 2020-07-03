@@ -4,7 +4,7 @@ __自用规则__
 ## 作用  
 主要是一些限制区域的流媒体分流  
 ### HK  
-viuTV, encoreTVB
+viuTV, encoreTVB, HBOHK
 ### JP  
 Hulu.jp, AbemaTV
 ### TW  
