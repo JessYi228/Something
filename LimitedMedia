@@ -6,6 +6,7 @@ host-suffix, biliapi.net, Taiwan
 host-suffix, biliapi.com, Taiwan
 host-suffix, biligame.net, Taiwan
 host-suffix, bilibedio.com, Taiwan
+host, upos-hz-mirrorakam.akamaized.net, Taiwan
 # > Bahamut
 user-agent, Anime*, Taiwan
 host-suffix, bahamut.com.tw, Taiwan
