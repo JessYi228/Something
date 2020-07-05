@@ -1,18 +1,19 @@
+
 # > Bilibili
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
+DOMAIN-KEYWORD,bilibili, Taiwan
+DOMAIN-SUFFIX,acg.tv, Taiwan
+DOMAIN-SUFFIX,acgvideo.com, Taiwan
+DOMAIN-SUFFIX,b23.tv, Taiwan
+DOMAIN-SUFFIX,biliapi.com, Taiwan
+DOMAIN-SUFFIX,biliapi.net, Taiwan
+DOMAIN-SUFFIX,bilibili.com, Taiwan
+DOMAIN-SUFFIX,bilibili.tv, Taiwan
+DOMAIN-SUFFIX,biligame.com, Taiwan
+DOMAIN-SUFFIX,biligame.net, Taiwan
+DOMAIN-SUFFIX,bilivideo.com, Taiwan
+DOMAIN-SUFFIX,hdslb.com, Taiwan
+DOMAIN-SUFFIX,im9.com, Taiwan
+DOMAIN,upos-hz-mirrorakam.akamaized.net, Taiwan
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN,gamer-cds.cdn.hinet.net
