@@ -12,8 +12,10 @@ DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 USER-AGENT,*bili*
+USER-AGENT,Bilibili*
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN,gamer-cds.cdn.hinet.net
