@@ -1,4 +1,6 @@
 # > Bilibili
+USER-AGENT,bili*, Taiwan
+USER-AGENT,Bilibili*, Taiwan
 DOMAIN-KEYWORD,bilibili, Taiwan
 DOMAIN-SUFFIX,acg.tv, Taiwan
 DOMAIN-SUFFIX,acgvideo.com, Taiwan
