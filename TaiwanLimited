@@ -17,12 +17,12 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
-DOMAIN,api.bilibili.com,Bilibili
-DOMAIN,www.bilibili.com,Bilibili
-DOMAIN,cache.video.iqiyi.com,Bilibili
-DOMAIN-SUFFIX,api.mgtv.com,Bilibili
-DOMAIN-SUFFIX,wetv.vip,Bilibili
-DOMAIN-SUFFIX,wetvinfo.com,Bilibili
+DOMAIN,api.bilibili.com
+DOMAIN,www.bilibili.com
+DOMAIN,cache.video.iqiyi.com
+DOMAIN-SUFFIX,api.mgtv.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN,gamer-cds.cdn.hinet.net
