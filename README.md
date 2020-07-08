@@ -8,7 +8,7 @@ viuTV, encoreTVB, HBOHK
 ### JP  
 Hulu.jp, AbemaTV
 ### TW  
-Bilibili(只能网页看港澳台了，app好像不行，要全局打开才行), Bahamut, KKTV, LineTV, ~~台湾好（虽然不看，也不知道这是啥，但还是顺手加上去了）~~    
+Bilibili(只能网页看港澳台了，移动端app好像不行，要全局打开才行，全局进入b站以后换成规则模式就ok了), Bahamut, KKTV, LineTV, ~~台湾好（虽然不看，也不知道这是啥，但还是顺手加上去了）~~    
 ### UK  
 BBC, BBCiPlayer  
 ### US  
