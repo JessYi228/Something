@@ -14,7 +14,12 @@ BBC, BBCiPlayer
 ### US  
 Hulu, Disney+, FoxNow, FoxPlus, HBO    
 ### Limited Media  
-用于圈×，根据自己的分组名内置的规则
+用于圈×，根据自己的分组名内置的规则  
+### Surge_Dudi  
+surge4自用配置，根据nexitally托管改的，嫖到了很多大佬的规则。  
+#### 感谢  
+[lhie1](https://github.com/lhie1/Rules/tree/master) [Choler](https://github.com/Choler/Surge) [onewayticket255](https://github.com/onewayticket255/Surge-Script) [yichahucha
+](https://github.com/yichahucha/surge/tree/master)
 ### clash_rule_ini  
 根据[Thor-jelly](https://github.com/Thor-jelly/MyClashRule)改编自定义的clash配置，分组，谢谢这位大哥      
 不仅有Geoip CN,还加上了ChinaIP，所以直连规则非常多，5880条，电脑性能不好的话慎入(ChinaIP默认注释掉，可手动开启)  
