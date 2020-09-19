@@ -26,3 +26,10 @@ USER-AGENT,FOXPlus*
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,theplatform.com
+# HBO Max
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbonow.com
