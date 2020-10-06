@@ -20,7 +20,7 @@ surge_ruleset=Final,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=PROXY`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]India`[]Others`[]DIRECT
-custom_proxy_group=Netflix`select`[]Singapore`[]Hong Kong
+custom_proxy_group=Netflix`select`[]Singapore`[]Hong Kong`[]Taiwan
 custom_proxy_group=Prime Video`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]India`[]Others
 custom_proxy_group=Apple`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]Others`[]DIRECT
 custom_proxy_group=Hong Kong`select`(港|HK|HONG|Hong|HGC)
