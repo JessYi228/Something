@@ -36,7 +36,7 @@ user-agent, TaiwanGood*, Taiwan
 host-suffix, skyking.com.tw, Taiwan
 host, hamifans.emome.net, Taiwan
 # > 愛奇藝台灣站
-DOMAIN,cache.video.iqiyi.com, Taiwan
+# DOMAIN,cache.video.iqiyi.com, Taiwan
 # > encoreTVB
 USER-AGENT,encoreTVB*, Hong Kong
 DOMAIN-SUFFIX,encoretvb.com, Hong Kong
