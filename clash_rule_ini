@@ -9,6 +9,7 @@ surge_ruleset=Taiwan,https://raw.githubusercontent.com/JessYi228/Something/maste
 surge_ruleset=United Kingdom,https://raw.githubusercontent.com/JessYi228/Something/master/UKLimited
 surge_ruleset=Hong Kong,https://raw.githubusercontent.com/JessYi228/Something/master/HKLimited
 surge_ruleset=Apple,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Apple.list
+surge_ruleset=Steam,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 ;surge_ruleset=LessAD,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ;surge_ruleset=Hijacking,https://raw.githubusercontent.com/JessYi228/Something/master/Hijacking
 ;surge_ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
@@ -21,6 +22,7 @@ surge_ruleset=Final,[]FINAL
 ;设置分组标志位
 custom_proxy_group=PROXY`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]India`[]Others`[]DIRECT
 custom_proxy_group=Netflix`select`[]Singapore`[]Hong Kong`[]Taiwan
+custom_proxy_group=Steam`select`[]PROXY`[]DIRECT
 custom_proxy_group=Prime Video`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]India`[]Others
 custom_proxy_group=Apple`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]Others`[]DIRECT
 custom_proxy_group=Hong Kong`select`(港|HK|HONG|Hong|HGC)
