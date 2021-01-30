@@ -2,7 +2,7 @@
 clash_rule_base=https://raw.githubusercontent.com/JessYi228/Something/master/common_flag.yml
 ;设置规则标志位
 surge_ruleset=Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Netflix.list
-surge_ruleset=Emby,https://raw.githubusercontent.com/echoops/emby/main/Filter/Emby.list
+surge_ruleset=Emby,https://raw.githubusercontent.com/JessYi228/Something/master/Emby.list
 surge_ruleset=Prime Video,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Amazon.list
 surge_ruleset=USA,https://raw.githubusercontent.com/JessYi228/Something/master/USLimited
 surge_ruleset=Japan,https://raw.githubusercontent.com/JessYi228/Something/master/JPLimited
