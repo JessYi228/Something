@@ -1,0 +1,7 @@
+#!name=bilibili unblock
+#!desc=none
+[URL Rewrite]
+https:\/\/api.bilibili.com\/pgc\/view\/app\/season http://api.jucatyo.com/season 302
+https:\/\/api\.bilibili\.com\/pgc\/player\/api\/playurl http://api.jucatyo.com/playurl 302
+[MITM]
+hostname = api.bilibili.com
