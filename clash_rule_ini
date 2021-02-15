@@ -26,7 +26,6 @@ custom_proxy_group=Emby`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]
 custom_proxy_group=Netflix`select`[]Singapore`[]Hong Kong`[]Taiwan
 custom_proxy_group=Steam`select`[]PROXY`[]DIRECT
 custom_proxy_group=Prime Video`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]India`[]Others
-custom_proxy_group=Discovery Plus`select`[]USA`[]United Kingdom`[]India`[]Others
 custom_proxy_group=Apple`select`[]Hong Kong`[]Taiwan`[]Singapore`[]Japan`[]USA`[]United Kingdom`[]Others`[]DIRECT
 custom_proxy_group=Hong Kong`select`(港|HK|HONG|Hong|HGC)
 custom_proxy_group=Taiwan`select`(台|新北|彰化|TW|Tai|TAIWAN)
