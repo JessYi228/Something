@@ -26,6 +26,6 @@ surge4自用配置，根据nexitally托管改的，嫖到了很多大佬的规�
 ### clash_update.ini  
 由 [clash_rule.ini](https://github.com/JessYi228/Something/blob/master/clash_update.ini)改的，把部分分流改成clash-classic  
 没有emoji(迫真没有感情的分流机器)  
-![大概就长这样](https://github.com/JessYi228/Something/blob/master/%E6%89%B9%E6%B3%A8%202020-06-30%20111608.png)
+![大概就长这样](https://github.com/JessYi228/Something/blob/Pictures/Smaple1.png)(https://github.com/JessYi228/Something/blob/Pictures/Smaple2.png)
 
 
