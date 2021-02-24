@@ -19,7 +19,9 @@ Hulu, FoxNow, FoxPlus, HBO Max
 surge4自用配置，根据nexitally托管改的，嫖到了很多大佬的规则。  
 #### 感谢  
 [lhie1](https://github.com/lhie1/Rules/tree/master) [Choler](https://github.com/Choler/Surge) [onewayticket255](https://github.com/onewayticket255/Surge-Script) [yichahucha
-](https://github.com/yichahucha/surge/tree/master)
+](https://github.com/yichahucha/surge/tree/master)  
+### clash_rule_nexitally.ini  
+emby分流里只有奶昔塌了的emby节点
 ### clash_rule.ini  
 根据[Thor-jelly](https://github.com/Thor-jelly/MyClashRule)改编自定义的clash配置，分组，谢谢这位大哥     
 无emoji
