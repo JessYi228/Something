@@ -1,0 +1,48 @@
+# > Bahamut
+USER-AGENT,Anime*
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,hinet.net
+# > KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN,kktv-theater.kk.stream
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+# > Line TV
+USER-AGENT,LINE%20TV*
+USER-AGENT,LINE*
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,linetv.tw
+# > 台湾好
+USER-AGENT, TaiwanGood*
+DOMAIN-SUFFIX, skyking.com.tw
+DOMAIN, hamifans.emome.net
+# > Friday
+USER-AGENT,friDay*
+DOMAIN-SUFFIX,friday.tw
+# > Facebook
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbcdn.net
+IP-CIDR,31.13.24.0/21,no-resolve
+IP-CIDR,31.13.64.0/18,no-resolve
+IP-CIDR,45.64.40.0/22,no-resolve
+IP-CIDR,66.220.144.0/20,no-resolve
+IP-CIDR,69.63.176.0/20,no-resolve
+IP-CIDR,69.171.224.0/19,no-resolve
+IP-CIDR,74.119.76.0/22,no-resolve
+IP-CIDR,103.4.96.0/22,no-resolve
+IP-CIDR,129.134.0.0/17,no-resolve
+IP-CIDR,157.240.0.0/17,no-resolve
+IP-CIDR,173.252.64.0/18,no-resolve
+IP-CIDR,179.60.192.0/22,no-resolve
+IP-CIDR,185.60.216.0/22,no-resolve
+IP-CIDR,204.15.20.0/22,no-resolve
