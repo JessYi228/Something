@@ -8,7 +8,7 @@ viuTV, encoreTVB, HBOHK
 ### JP  
 Hulu.jp, AbemaTV
 ### TW  
-Bahamut, KKTV, Friday, LineTV, ~~台湾好（虽然不看，也不知道这是啥，但还是顺手加上去了）~~    
+Bahamut, KKTV, Friday, Catch play+, LineTV, ~~台湾好（虽然不看，也不知道这是啥，但还是顺手加上去了）~~    
 ### UK  
 BBC, BBCiPlayer  
 ### US  
