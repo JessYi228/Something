@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,linetv.tw
 USER-AGENT, TaiwanGood*
 DOMAIN-SUFFIX, skyking.com.tw
 DOMAIN, hamifans.emome.net
+# > friDay
+USER-AGENT,friDay*
+DOMAIN-SUFFIX,friday.tw
