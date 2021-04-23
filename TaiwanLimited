@@ -25,3 +25,10 @@ DOMAIN, hamifans.emome.net
 # > friDay
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,friday.tw
+# > CATCHPLAY+
+USER-AGENT,CATCHPLAY*
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN,asiaplay-origin.s3.amazonaws.com
+DOMAIN,tra-ww000-cp.akamaized.net
+DOMAIN,ols-ww000-cp.akamaized.net
+DOMAIN,ols-ww100-cp.akamaized.net
