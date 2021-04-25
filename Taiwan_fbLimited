@@ -46,9 +46,6 @@ IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
-# > friDay
-USER-AGENT,friDay*
-DOMAIN-SUFFIX,friday.tw
 # > CATCHPLAY+
 USER-AGENT,CATCHPLAY*
 DOMAIN-SUFFIX,catchplay.com
