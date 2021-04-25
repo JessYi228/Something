@@ -4,6 +4,20 @@ host-suffix, bahamut.com.tw, Taiwan
 host-suffix, gamer.com.tw, Taiwan
 host, gamer-cds.cdn.hinet.net, Taiwan
 host, gamer2-cds.cdn.hinet.net, Taiwan
+# > CATCHPLAY+
+USER-AGENT,CATCHPLAY*, Taiwan
+DOMAIN-SUFFIX,catchplay.com, Taiwan
+DOMAIN,asiaplay-origin.s3.amazonaws.com, Taiwan
+DOMAIN,tra-ww000-cp.akamaized.net, Taiwan
+DOMAIN,ols-ww000-cp.akamaized.net, Taiwan
+DOMAIN,ols-ww100-cp.akamaized.net, Taiwan
+# > friDay
+USER-AGENT,friDay*, Taiwan
+DOMAIN-SUFFIX,friday.tw, Taiwan
+# > myVideo
+USER-AGENT,myVideo*, Taiwan
+DOMAIN-SUFFIX,myvideo.net.tw, Taiwan
+DOMAIN-SUFFIX,catch.net.tw, Taiwan
 # > KKTV
 user-agent, KKTV*, Taiwan
 user-agent, com.kktv.ios.kktv*, Taiwan
