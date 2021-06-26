@@ -37,15 +37,6 @@ USER-AGENT,encoreTVB*, Hong Kong
 DOMAIN-SUFFIX,encoretvb.com, Hong Kong
 DOMAIN,edge.api.brightcove.com, Hong Kong
 DOMAIN,bcbolt446c5271-a.akamaihd.net, Hong Kong
-# > ViuTV
-USER-AGENT,Viu*, Hong Kong
-USER-AGENT,ViuTV*,Hong Kong
-DOMAIN-SUFFIX,viu.com,Hong Kong
-DOMAIN-SUFFIX,viu.tv,Hong Kong
-DOMAIN,api.viu.now.com,Hong Kong
-DOMAIN,d1k2us671qcoau.cloudfront.net,Hong Kong
-DOMAIN,d2anahhhmp1ffz.cloudfront.net,Hong Kong
-DOMAIN,dfp6rglgjqszk.cloudfront.net,Hong Kong
 # > HBO GO HKG
 USER-AGENT,HBO%20GO%20PROD%20HKG*,Hong Kong
 DOMAIN-SUFFIX,hbogoasia.com,Hong Kong
