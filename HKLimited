@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
 # > encoreTVB
-USER-AGENT,encoreTVB*, Hong Kong
-DOMAIN-SUFFIX,encoretvb.com, Hong Kong
-DOMAIN,edge.api.brightcove.com, Hong Kong
-DOMAIN,bcbolt446c5271-a.akamaihd.net, Hong Kong
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
