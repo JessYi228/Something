@@ -1,0 +1,58 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:5354
+  enhanced-mode: fake-ip
+  nameserver:
+    - 1.2.4.8
+    - 223.5.5.5
+    - 114.114.114.114
+  fallback:
+    - tls://dns.rubyfish.cn:853
+  tun: 
+    enable: true
+    stack: gvisor
+    dns-hijeck: 
+     -198.18.0.2:53
+    auto-route: true
+    auto-detect-interface: true
+
+  # Clash DNS 请求逻辑：
+  # (1) 当访问一个域名时， nameserver 与 fallback 列表内的所有服务器并发请求，得到域名对应的 IP 地址。
+  # (2) clash 将选取 nameserver 列表内，解析最快的结果。
+  # (3) 若解析结果中，IP 地址属于 国外，那么 Clash 将选择 fallback 列表内，解析最快的结果。
+
+  # 注意：
+  # (1) 如果您为了确保 DNS 解析结果无污染，请仅保留列表内以 tls:// 开头的 DNS 服务器，但是通常对于国内没有太大必要。
+  # (2) 如果您不在乎可能解析到污染的结果，更加追求速度。请将 nameserver 列表的服务器插入至 fallback 列表内，并移除重复项
+cfw-bypass:
+  - qq.com
+  - music.163.com
+  - localhost
+  - 127.*
+  - 10.*
+  - 172.16.*
+  - 172.17.*
+  - 172.18.*
+  - 172.19.*
+  - 172.20.*
+  - 172.21.*
+  - 172.22.*
+  - 172.23.*
+  - 172.24.*
+  - 172.25.*
+  - 172.26.*
+  - 172.27.*
+  - 172.28.*
+  - 172.29.*
+  - 172.30.*
+  - 172.31.*
+  - 192.168.*
+  - <local>
