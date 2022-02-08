@@ -24,6 +24,9 @@ DOMAIN, hamifans.emome.net
 # > Friday
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,fridaylogger.com
+DOMAIN,aka01p.akamaized.net
+
 # > Facebook
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
