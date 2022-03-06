@@ -52,13 +52,15 @@ IP-CIDR,179.60.192.0/22,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 # > CATCHPLAY+
-USER-AGENT,CATCHPLAY*
-DOMAIN-SUFFIX,catchplay.com
-DOMAIN,asiaplay-origin.s3.amazonaws.com
-DOMAIN,tra-ww000-cp.akamaized.net
-DOMAIN,ols-ww000-cp.akamaized.net
-DOMAIN,ols-ww100-cp.akamaized.net
-DOMAIN,dkfhw9rzsr80z.cloudfront.net
+  PROCESS-NAME,com.catchplay.asiaplay
+  PROCESS-NAME,com.catchplay.asiaplay.tv
+  PROCESS-NAME,com.catchplay.asiaplay.common.tv
+  DOMAIN-SUFFIX,catchplay.com
+  DOMAIN,asiaplay-origin.s3.amazonaws.com
+  DOMAIN,tra-ww000-cp.akamaized.net
+  DOMAIN,ols-ww000-cp.akamaized.net
+  DOMAIN,ols-ww100-cp.akamaized.net
+  DOMAIN,dkfhw9rzsr80z.cloudfront.net
 
 # > myVideo
 USER-AGENT,myVideo*
