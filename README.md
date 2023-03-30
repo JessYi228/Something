@@ -1,3 +1,8 @@
+# Script  
+
+test_openai_connection.py  
+由chatgpt-4编写，可以检测当前IP能否访问openai API，使用前要自行添加一个有效API。  
+
 # Rules
 
 **自用规则**
