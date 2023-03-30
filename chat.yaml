@@ -1,0 +1,26 @@
+# Author: ChatGPT-4
+
+payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,api.openai.com
+  - DOMAIN-SUFFIX,platform.openai.com
+  - DOMAIN-SUFFIX,community.openai.com
+  - DOMAIN-SUFFIX,cdn.openai.com
+  - DOMAIN-SUFFIX,openai-cdn.com
+  - DOMAIN-SUFFIX,openai-cdn.net
+  - DOMAIN-SUFFIX,openai-img.com
+  - DOMAIN-SUFFIX,openai-cd.cn
+  - DOMAIN-SUFFIX,openai-cd.com
+  - DOMAIN-SUFFIX,openai-cd.net
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bingads.com
+  - DOMAIN-SUFFIX,bingsearch.com
+  - DOMAIN-SUFFIX,bingusercontent.com
+  - DOMAIN-SUFFIX,bingssl.com
+  - DOMAIN-SUFFIX,cdn.bing.com
+  - DOMAIN-SUFFIX,cdn.bing.net
+  - DOMAIN-SUFFIX,bing-cd.cn
+  - DOMAIN-SUFFIX,bing-cd.com
+  - DOMAIN-SUFFIX,bing-cd.net
